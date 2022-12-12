@@ -1,0 +1,8 @@
+# Breakfast Cereal Research - Check the conflicting interest!!
+
+The marketing campaigns usually make it difficult for consumers to distinguish between the real positive impacts and the presented claims of commodities. This is no different for breakfast cereals. 
+Consumers try to rely and fully trust the research based information as that should ideally be unbiased in interest of consumers. Interestingly enough, the research studies should also be taken with a grain of salt as many studies are conducted as well as funded by these big companies. The evidence based information, data driven decision making empowers consumers to make most sensible decision, but unfortunately, many of these sources are also not fully fool-proof. 
+
+[This study](https://www.frontiersin.org/articles/10.3389/fnut.2022.816548/full) conducted a thorough investigation on more than 9000 people in USA to understand the dietary outcomes as a result of ready to eat cereal consumption. It provided positive association of cereal intake with increased intake of recommended food groups. Although, this data doesn't surprise as most of the breakfast cereals are supplemented with additional vitamins, fortified nutrients but it should be noted that the entire study received funding by a big brand of cereal company as well as employees of the company conducted the research. It is not a bad thing to highlight positive side of a product, but in a way, the reliability of studies in an unbiased environment is up to some discussion.
+
+Therefore, all claims should be evaluated carefully and in moderation. Breakfast cereal is a great and easy way to start the morning but it should certainly be altered with fresh fruits, whole natural grains, to ensure a good balance of nutrients.
